@@ -91,3 +91,29 @@ Users can browse books, search by title, filter by categories, and borrow books 
   "available_quantity": 5,
   "image_url": "string"
 }
+
+```
+---
+
+## 👨‍💻 Author
+
+<p align="center">
+  <b>Sabir Mahmud Tazim</b><br/>
+  🎓 CSE Student — University of Asia Pacific  
+</p>
+
+---
+
+## ⭐ Final Note
+
+This project is built as part of an academic assignment focusing on:
+
+- Real-world application development  
+- Clean UI/UX  
+- Secure authentication  
+
+---
+
+
+
+
