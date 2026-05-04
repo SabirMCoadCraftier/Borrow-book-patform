@@ -1,75 +1,85 @@
-# 📚 Digital Library Web Application
+# 📚 Digital Library System
 
-## 🚀 Project Name
-**Digital Library System**
+<p align="center">
+  <b>A Modern Web App to Digitize the Library Experience</b><br/>
+  Explore • Search • Borrow Books Online
+</p>
+
+<p align="center">
+  <a href="https://your-live-link.vercel.app">🌐 Live Demo</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-installation">Installation</a>
+</p>
 
 ---
 
-## 📖 Project Overview
-A seamless and modern web application designed to digitize the traditional library experience. Users can explore a vast collection of books, filter by categories, and borrow titles digitally. The platform focuses on performance, security, and user experience using modern technologies like Next.js, MongoDB, and BetterAuth.
+## 🚀 Project Overview
 
----
+**Digital Library System** is a modern, fast, and user-friendly web application designed to transform the traditional library into a digital experience.  
 
-## 🌐 Live URL
-🔗 https://your-live-link.vercel.app
+Users can browse books, search by title, filter by categories, and borrow books — all within a secure and responsive platform.
 
 ---
 
 ## 🎯 Purpose
-The goal of this project is to provide a fully functional online library system where users can:
-- Discover books easily  
-- Borrow books digitally  
-- Manage personal profiles  
-- Experience a fast and responsive UI  
+
+- 📖 Digitize the traditional library system  
+- 🔍 Improve book discovery with search & filtering  
+- 👤 Provide user-based personalized experience  
+- ⚡ Ensure fast, smooth, and responsive UI  
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-### 🔐 Authentication System
-- Email & Password Login/Register  
+### 🔐 Authentication
+- Email & Password Login / Register  
 - Google Social Login  
 - Secure authentication with BetterAuth  
-- Private Routes (Protected Pages)  
+- Private Routes protection  
 
 ### 🏠 Home Page
-- 📢 Banner with CTA ("Find Your Next Read")  
+- 📢 Hero Banner with CTA (*Find Your Next Read*)  
 - 🔁 Marquee for announcements  
-- ⭐ Featured Books Section (Top 4 books)  
-- ➕ Two additional custom sections  
+- ⭐ Featured Books section  
+- 🎨 Additional custom sections  
 
-### 📚 Book Management
-- All Books Page with search functionality  
-- Book filtering by categories (Story, Tech, Science)  
-- Detailed Book Information Page  
-- Borrow system with availability tracking  
+### 📚 Book System
+- 🔍 Search books by title  
+- 🗂️ Category filtering (Story | Tech | Science)  
+- 📄 Book details page  
+- 📦 Borrow system with availability tracking  
 
 ### 👤 User Profile
 - View user information  
-- Personalized experience  
+- Personalized dashboard  
 
-### 📱 Responsive Design
-- Fully responsive for Mobile, Tablet, Desktop  
+### 📱 Responsiveness
+- Fully optimized for:
+  - Mobile  
+  - Tablet  
+  - Desktop  
 
 ---
 
 ## 🧩 Layout Structure
 
 ### 🔝 Navbar
-- Left: Logo (Home link)  
-- Center: Navigation (Home | All Books | My Profile)  
-- Right:  
-  - Logged Out → Login Button  
-  - Logged In → User Name + Logout  
+- Logo (Home)  
+- Navigation: Home | All Books | My Profile  
+- User Section:
+  - Logged Out → Login  
+  - Logged In → Name + Logout  
 
 ### 🔚 Footer
-- Custom design  
 - Social media links  
 - Contact section  
+- Custom UI design  
 
 ---
 
-## 🗂️ Data Structure (Books JSON)
+## 🗂️ Data Structure
 
 ```json
 {
