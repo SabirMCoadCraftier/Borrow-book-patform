@@ -5,9 +5,6 @@ import { MongoClient } from "mongodb";
 const client = new MongoClient(process.env.MONGODB_URI!);
 
 export const auth = betterAuth({
-   emailAndPassword: { 
-    enabled: true, 
-  }, 
   database: mongodbAdapter(client.db("bookborrow")),
   emailAndPassword: {
     enabled: true,
@@ -27,9 +24,3 @@ export const auth = betterAuth({
     },
   },
 });
-
-
-
-// 
-// betterauthDBuser
-

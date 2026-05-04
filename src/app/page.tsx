@@ -14,7 +14,6 @@ const categories = [
   { name: "Science", icon: "", count: books.filter(b => b.category === "Science").length, color: "from-green-500/20 to-green-600/5 border-green-500/30" },
   { name: "Story", icon: "", count: books.filter(b => b.category === "Story").length, color: "from-purple-500/20 to-purple-600/5 border-purple-500/30" },
 ];
-
 export default function Home() {
   return (
     <div className="pt-16">
