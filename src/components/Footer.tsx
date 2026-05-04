@@ -38,7 +38,7 @@ export default function Footer() {
           {/* Contact & Social */}
           <div>
             <h3 className="text-white font-semibold mb-4 text-sm tracking-wider uppercase">Contact Us</h3>
-            <p className="text-slate-500 text-sm mb-1"> support@bookborrow.dev</p>
+            <p className="text-slate-500 text-sm mb-1"> sabirmahmud131@gmail.com</p>
             <p className="text-slate-500 text-sm mb-4"> Dhaka, Bangladesh</p>
             <h3 className="text-white font-semibold mb-3 text-sm tracking-wider uppercase">Follow Us</h3>
             <div className="flex gap-3">
@@ -66,7 +66,7 @@ export default function Footer() {
 
         <div className="border-t border-[rgba(108,99,255,0.1)] mt-10 pt-6 text-center">
           <p className="text-slate-600 text-sm">
-            © {new Date().getFullYear()} BookBorrow. Built with Next.js, BetterAuth & MongoDB.
+            © {new Date().getFullYear()} Developed By Sabir Mahmud || FullStack Developper 
           </p>
         </div>
       </div>
