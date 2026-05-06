@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[(https://borrow-book-patform-a7j3-lh4ipgfxw.vercel.app/)">🌐 Live Demo</a> •
+  <a href="https://borrow-book-patform-a7j3.vercel.app/">🌐 Live Demo</a> •
   <a href="#-features">Features</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-installation">Installation</a>
